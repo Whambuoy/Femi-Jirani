@@ -5,6 +5,10 @@
     <string name="user_name">User name</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="button_login">Login</string>
 
+    <!--Welcome Activity -->
+    <string name="find_jirani">Find Jirani</string>
+    <string name="register_jirani">Register Jirani</string>
 
 </resources>
