@@ -10,7 +10,7 @@
         android:id="@+id/find_jirani"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/find_jirani"
+        android:text="@string/find_j"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="120dp"/>
 
@@ -18,7 +18,7 @@
         android:id="@+id/register_jirani"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/register_jirani"
+        android:text="@string/register_j"
         android:layout_below="@id/find_jirani"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"/>

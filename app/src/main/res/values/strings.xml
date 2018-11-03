@@ -8,7 +8,22 @@
     <string name="button_login">Login</string>
 
     <!--Welcome Activity -->
-    <string name="find_jirani">Find Jirani</string>
-    <string name="register_jirani">Register Jirani</string>
+    <string name="find_j">Find Jirani</string>
+    <string name="register_j">Register Jirani</string>
+
+    <!--Find Jirani Activity -->
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="id_dob">ID/Date of birth</string>
+    <string name="find">Find</string>
+    <string name="o_id">Organizational ID</string>
+
+    <!--Register Jirani Activity -->
+    <string name="county">County</string>
+    <string name="town">Town</string>
+    <string name="village_estate">Village or Estate</string>
+    <string name="land_mark">Nearest Landmark</string>
+
 
 </resources>
