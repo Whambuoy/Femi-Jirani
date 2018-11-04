@@ -7,24 +7,33 @@
     android:orientation="vertical"
     tools:context="com.example.android.femijirani.MainActivity">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/we"
+        android:backgroundTint="#F8BBD0"/>
+
+
     <EditText
         android:id="@+id/username"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/user_name"
+        android:textColorHint="#212121"
         android:layout_centerHorizontal="true"
         android:padding="30dp"
-        />
+        android:textColor="#212121"/>
 
     <EditText
         android:id="@+id/password"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/password"
+        android:textColorHint="#212121"
         android:layout_below="@+id/username"
         android:layout_centerHorizontal="true"
         android:padding="30dp"
-        />
+        android:textColor="#212121"/>
 
     <Button
         android:id="@+id/button_login"
